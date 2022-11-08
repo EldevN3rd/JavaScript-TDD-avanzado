@@ -1,4 +1,35 @@
-it.todo('should add two numbers');
+it('should add two numbers' , () => {
+    // Arrange
 
-it.todo('should multiply two numbers');
 
+    // Act
+
+
+    // Assert
+
+
+});
+
+it('should multiply two numbers' , () => {
+    // Arrange
+
+
+    // Act
+
+
+    // Assert
+
+
+});
+
+it(' should behave... ', () => {
+    // Arrange
+
+
+    // Act
+
+
+    // Assert
+
+
+});

@@ -44,3 +44,18 @@ DAMP
 Regla de Oro --> Nunca omitas las pruebas
 
 
+## Frameworks de testing:
+Karma-runnin -> https://karma-runner.github.io/latest/index.html
+Jasmine -> https://jasmine.github.io/
+Jest -> https://jestjs.io/es-ES/docs/getting-started
+sinon.js -> https://sinonjs.org/
+
+
+
+## Extensiones para Tester
+1/ Quokka -> https://quokkajs.com/
+2/ Wallaby -> https://wallabyjs.com/
+
+
+## 
+
